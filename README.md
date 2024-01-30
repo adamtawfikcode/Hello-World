@@ -5,11 +5,9 @@ This repository contains a very basic C program. It's perfect if you're just sta
 The Code
 Here's the code you'll see:
 
-c
-Copy code
+```
 #include <stdio.h>
 
-```
 int main(void)
 {
     printf("Hello, World!\n");
