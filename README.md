@@ -16,7 +16,6 @@ int main(void)
 }
 ```
 
-Step-by-Step Explanation
 The #include <stdio.h> Part:
 
 Think of #include as a way to bring in some extra tools that your code needs. Here, <stdio.h> is like a toolbox for doing stuff with input and output, like showing text on the screen.
