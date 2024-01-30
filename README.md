@@ -9,6 +9,7 @@ c
 Copy code
 #include <stdio.h>
 
+```
 int main(void)
 {
     printf("Hello, World!\n");
@@ -16,6 +17,7 @@ int main(void)
 
     return 0;
 }
+```
 
 Step-by-Step Explanation
 The #include <stdio.h> Part:
