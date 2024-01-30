@@ -1,5 +1,3 @@
-Intro to C Programming: Hello World!
-What's This All About?
 This repository contains a very basic C program. It's perfect if you're just starting out with coding. The program prints some text to your screen. Pretty cool for your first steps in C programming!
 
 Here's the code you'll see:
