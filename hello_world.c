@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 // Main function declaration
-int main(int argc, char **argv)
+int main(void)
 {
     // printf text to the screen without using format specifiers
     printf("Hello, World!\n");
